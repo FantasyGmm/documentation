@@ -214,7 +214,7 @@ root@rock-5b:/home/rock#
 
 #### 串口访问
 
-- [串口访问](../low-level-dev/serial)
+- [串口访问](../../lowlevel-development/serial)
 
 #### SSH访问
 
